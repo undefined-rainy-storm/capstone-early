@@ -1,0 +1,9 @@
+[submodule "relay"]
+	path = relay
+	url = https://github.com/undefined-rainy-storm/capstone-relay
+[submodule "glass"]
+	path = glass
+	url = https://github.com/undefined-rainy-storm/capstone-glass
+[submodule "processor"]
+	path = processor
+	url = https://github.com/undefined-rainy-storm/capstone-processor
