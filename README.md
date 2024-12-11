@@ -12,3 +12,4 @@ _Proposal of low-cost AR emotion recognition assistance device to alleviate ASD 
 - [Processor Requestor(`/processor-request`)](/processor-request) - 처리기 감정 분류 수동 요청 도구
 - [Relay(`/relay`)](/relay) - 중계 애플리케이션 (중계기)
 - [Report(`/report`)](/report) - 프로젝트 수행 최종 보고서
+- [Research(`/research`)](/research) - 연구개발 산출물

@@ -7,3 +7,24 @@
 [submodule "processor"]
 	path = processor
 	url = https://github.com/undefined-rainy-storm/capstone-processor
+[submodule "research/capstone-research-backend-exchange-layer"]
+	path = research/capstone-research-backend-exchange-layer
+	url = https://github.com/undefined-rainy-storm/capstone-research-backend-exchange-layer
+[submodule "research/capstone-research-device-controller"]
+	path = research/capstone-research-device-controller
+	url = https://github.com/undefined-rainy-storm/capstone-research-device-controller
+[submodule "research/capstone-research-flutter"]
+	path = research/capstone-research-flutter
+	url = https://github.com/undefined-rainy-storm/capstone-research-flutter
+[submodule "research/capstone-research-communicating-background"]
+	path = research/capstone-research-communicating-background
+	url = https://github.com/undefined-rainy-storm/capstone-research-communicating-background
+[submodule "research/capstone-research-ble-relay"]
+	path = research/capstone-research-ble-relay
+	url = https://github.com/undefined-rainy-storm/capstone-research-ble-relay
+[submodule "research/capstone-research-arduino-cam-ble"]
+	path = research/capstone-research-arduino-cam-ble
+	url = https://github.com/undefined-rainy-storm/capstone-research-arduino-cam-ble
+[submodule "research/capstone-research-ssd1306-control"]
+	path = research/capstone-research-ssd1306-control
+	url = https://github.com/undefined-rainy-storm/capstone-research-ssd1306-control
