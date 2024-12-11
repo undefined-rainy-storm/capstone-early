@@ -4,7 +4,7 @@
   
   enum Color { red='red', yellow='yellow', green='green' }
 
-  const requestTarget: string = 'http://localhost:5001/predict'
+  let requestTarget: string = 'http://localhost:5001/predict'
 
   type PredictionRequestResponse = {
     'timestamp': string
@@ -137,7 +137,7 @@
       Request Target 
       <Indicator color={isAliveIndicatorColor} size='sm' class='inline-block' />
     </Label> 
-    <Input id="default-input" placeholder="Default input" value={requestTarget} />
+    <Input id="default-input" placeholder="Default input" bind:value={requestTarget} />
   </div>
   <div class="mt-6 mb-6">
     <Label for="file-input" class="block mb-2"></Label>
